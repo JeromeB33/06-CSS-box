@@ -1,0 +1,65 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    color: lightgrey;
+    background-color: rgb(118, 123, 129);
+    margin: 0px;
+}
+
+nav ul {
+    margin: 0;
+}
+
+li {
+    display: inline-block;
+    padding: 10px;
+}
+
+ .carousel {
+     background-color: lightgrey;
+     height: 100px;
+     width: 100%;
+ }
+
+ h2 {
+     color: grey;
+     text-align: center;
+     font-size: 20px;
+ }
+
+ h2 span {
+     font-size: 12px;
+ }
+
+ .greybox {
+     text-align: center;
+ }
+
+ article {
+     width : 31%;
+     height: 200px;
+     background: lightgrey;
+     display: inline-block;
+     margin: 0 2px;
+ }
+ h3 {
+     color: grey;
+     text-align: left;
+     border-top: solid grey;
+     
+ }
+
+ form {
+     text-align: center;
+ }
+ input, textarea {
+     width: 80%;
+     margin-bottom: 10px;
+ }
+
+ textarea {
+     height: 130px;
+ }
